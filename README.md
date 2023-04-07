@@ -93,7 +93,9 @@ module.exports = mongoose.model("User", userSchema);
 
 ```
 
-``` Mongoose Methods
+### Mongoose Methods
+
+```jsx
 const mongoose = require("mongoose");
 const User = require("./User");
 
